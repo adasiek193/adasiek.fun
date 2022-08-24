@@ -41,3 +41,8 @@ a:active {
 	color: rgb(255, 0, 0);
 	font-weight: bold;
 }
+
+.font-weight-bold-text {
+	font-weight: bold;
+	color: #f075b3;
+}
