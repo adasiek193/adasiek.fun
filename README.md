@@ -1,1 +1,1 @@
-<h1>other website xd</h1>
+<h1>mit license ;^</h1>
