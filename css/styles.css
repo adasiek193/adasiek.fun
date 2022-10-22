@@ -102,3 +102,7 @@ a:hover {
 	justify-content: center;
 	margin: 24px;
 }
+
+noscript {
+	color: WHITE;
+}
