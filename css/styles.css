@@ -2,6 +2,11 @@
 #background {
 	height: 100vh;
 }
+
+* {
+	color: white;
+}
+
 body {
 	margin-left: 0;
 }
@@ -103,14 +108,11 @@ font-weight-bold-text {
 		background-position: 0% 50%;
 	}
 }
-h2 {
-	font-size: 11.25pt;
-}
 .wrapper {
 	max-width: 800px;
 }
 a {
-	color: #1d438a;
+	color: #8AA9E1;
 }
 .wrapper {
 	padding-left: 2.5rem;
@@ -163,8 +165,4 @@ noscript {
 }
 [class~="font-weight-bold-text"] {
 	font-weight: bold;
-}
-
-h3 {
-    font-size: 15px;
 }
